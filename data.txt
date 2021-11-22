@@ -1,3 +1,4 @@
 Name: Carmona
 Age: 34
 Favorite Color: Orange
+Favorite sports: [basketball, ultimate frisbee, american football, surf, beach volleyball]
